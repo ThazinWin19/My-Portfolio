@@ -1,0 +1,41 @@
+
+.main-bg{
+    background-color: #e6f5ff;
+ 
+}
+.navbar-brand{
+    width: 40px;
+    height: 50px;
+}
+.nav-bg{
+    background-color: #181f22;
+}
+.nav-link{
+    color: white;
+}
+.nav-over:hover{
+    background-color:#e6f5ff;
+}
+.nav-over:active{
+    color:#e6f5ff;
+}
+
+.image-link:hover{
+    opacity: 40%;
+    cursor: pointer;
+}
+.site-link:hover{
+color:red;
+}
+
+.img-thumbnail:hover{
+opacity: 40%;
+}
+
+.btn-dark:hover{
+opacity: 40%;
+}
+.btn-primary:hover{
+opacity: 40%;
+}
+ 
